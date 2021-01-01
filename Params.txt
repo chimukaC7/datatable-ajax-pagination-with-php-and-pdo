@@ -1,0 +1,38 @@
+Script was executed at 01-Jan-21 19:24:53
+{"draw":"1","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 19:25:11
+{"draw":"1","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 19:26:23
+{"draw":"2","row":"10","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 19:26:38
+{"draw":"3","row":"20","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:23
+{"draw":"4","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"desc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:24
+{"draw":"5","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:25
+{"draw":"6","row":"0","rowperpage":"10","columnIndex":"1","columnName":"email","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:26
+{"draw":"7","row":"0","rowperpage":"10","columnIndex":"1","columnName":"email","columnSortOrder":"desc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:27
+{"draw":"8","row":"0","rowperpage":"10","columnIndex":"2","columnName":"gender","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:28
+{"draw":"9","row":"0","rowperpage":"10","columnIndex":"2","columnName":"gender","columnSortOrder":"desc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:29
+{"draw":"10","row":"0","rowperpage":"10","columnIndex":"3","columnName":"salary","columnSortOrder":"asc","searchValue":""}
+Script was executed at 01-Jan-21 22:01:30
+{"draw":"11","row":"0","rowperpage":"10","columnIndex":"3","columnName":"salary","columnSortOrder":"desc","searchValue":""}
+Script was executed at 02-Jan-21 00:09:29
+{"draw":"1","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:09:41
+{"draw":"1","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:14:05
+{"draw":"1","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:14:10
+{"draw":"2","row":"10","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:14:11
+{"draw":"3","row":"20","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:14:11
+{"draw":"4","row":"30","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
+Script was executed at 02-Jan-21 00:14:13
+{"draw":"5","row":"0","rowperpage":"10","columnIndex":"0","columnName":"emp_name","columnSortOrder":"asc","searchValue":""}
