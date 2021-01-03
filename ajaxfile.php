@@ -85,10 +85,10 @@ foreach($empRecords as $row){
 
 ## Response
 $response = array(
-    "draw" => intval($draw),
-    "iTotalRecords" => $totalRecords,
-    "iTotalDisplayRecords" => $totalRecordwithFilter,
-    "aaData" => $data
+    "draw" => intval($draw),// for every request/draw by client side , they send a number as a parameter, when they receive a response/data they first check the draw number, so we are sending same number in draw.
+    "iTotalRecords" => $totalRecords,// total number of records
+    "iTotalDisplayRecords" => $totalRecordwithFilter,// total number of records after searching, if there is no searching then totalFiltered = totalData
+    "data" => $data // total data array
 );
 
 echo json_encode($response);
